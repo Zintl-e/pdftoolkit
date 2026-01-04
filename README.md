@@ -79,8 +79,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
    yarn install
    # or
    pnpm install
-   # or
-   bun install
    ```
 
 ---
@@ -95,8 +93,6 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
